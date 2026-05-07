@@ -1,0 +1,24 @@
+<section class="py-24 bg-white text-black">
+        <div class="max-w-6xl mx-auto px-6 text-center">
+            <h2 class="text-4xl font-black italic uppercase mb-4 tracking-tighter">TEAM <span class="text-orange-racing">PARTNERS</span></h2>
+            <p class="text-zinc-500 font-bold uppercase text-sm mb-16 tracking-widest">Powering the #8 Machine</p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-16 items-center max-w-5xl mx-auto">
+                <div class="group">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYeu62Cii0whNnSX82cHJGXNY1G48Z0VRjQ&s" 
+                         alt="Sponsor 1" class="h-24 w-auto mx-auto grayscale group-hover:grayscale-0 transition duration-500">
+                    <div class="h-1 w-12 bg-orange-racing mx-auto mt-4 group-hover:w-24 transition-all"></div>
+                </div>
+                <div class="group">
+                    <img src="https://cdn.worldvectorlogo.com/logos/simpson.svg" 
+                         alt="Simpson Racing" class="h-24 w-auto mx-auto grayscale group-hover:grayscale-0 transition duration-500">
+                    <div class="h-1 w-12 bg-orange-racing mx-auto mt-4 group-hover:w-24 transition-all"></div>
+                </div>
+                <div class="group">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfHEmb47TfYVrugJ9PcVOhuzgZkEfo5uiuA&s" 
+                         alt="Sponsor 2" class="h-24 w-auto mx-auto grayscale group-hover:grayscale-0 transition duration-500">
+                    <div class="h-1 w-12 bg-orange-racing mx-auto mt-4 group-hover:w-24 transition-all"></div>
+                </div>
+            </div>
+        </div>
+    </section>
